@@ -2,8 +2,6 @@
 I used one of the MCDM methods, named Todim, to help ranking financial institutions in brazil using ANBIMA Ranking.
 
 
-**TODIM Analysis :**
-
 This repository contains Python code that performs TODIM (an acronym for Thomson's Ordinal Decision Making) analysis on a given dataset. TODIM is a multi-criteria decision-making method used to rank alternatives based on a set of criteria.
 
 Requirements :
