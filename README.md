@@ -20,6 +20,7 @@ _pip install pandas numpy_
   - The first column contains the basic ranking based on the algebraic sum of investments of each institution.
   - The second column contains the names of alternatives.
   - The subsequent columns except the last one represent the decision matrix, where each cell represents the performance score of an alternative for a specific criterion.
+  - The last column shows the algebraic sum of investments of each institution. In the excel file you see this column with the name of "Total".
    
 4. Update the file path in the code to point to your Excel dataset:
 
