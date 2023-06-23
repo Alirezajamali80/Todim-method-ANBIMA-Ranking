@@ -4,7 +4,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # Read the Excel file and convert it into a DataFrame
-df = pd.read_excel('C:\\Users\\ACER\\Desktop\\Todim.xlsx')
+df = pd.read_excel('Todim.xlsx')
 
 
 # Extract the decision matrix (alternatives and criteria) & save data that we want later in vars
