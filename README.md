@@ -28,7 +28,7 @@ _pip install pandas numpy_
 
 5. Run the Python script:
 
-  _python todim_analysis.py_
+  _python todim.py_
 
 6. The script will calculate the global dominance values for each alternative, sort them in descending order, and display the ranked results.
 
